@@ -1,0 +1,7 @@
+{
+	"food": {"name": "Food", "color": "#e0c050"},
+	"timber": {"name": "Timber", "color": "#8a5a2b"},
+	"stone": {"name": "Stone", "color": "#9a9a9a"},
+	"iron_ore": {"name": "Iron Ore", "color": "#a0522d"},
+	"tools": {"name": "Tools", "color": "#5f8fbf"}
+}

@@ -1,0 +1,10 @@
+{
+	"town_hall": {"name": "Town Hall", "cost": {}, "build_work": 0, "storage": 150, "color": "#d4a838"},
+	"house": {"name": "House", "cost": {"timber": 4, "stone": 1}, "build_work": 40, "housing": 4, "color": "#c97b4a"},
+	"farm": {"name": "Farm", "cost": {"timber": 4}, "build_work": 40, "recipe": "grow_food", "terrain": "fertile", "terrain_min": 4, "color": "#e6d36a"},
+	"lumber_camp": {"name": "Lumber Camp", "cost": {"timber": 3}, "build_work": 30, "recipe": "cut_timber", "terrain": "forest", "terrain_min": 4, "color": "#5b3a1e"},
+	"quarry": {"name": "Quarry", "cost": {"timber": 4}, "build_work": 40, "recipe": "cut_stone", "terrain": "stone", "terrain_min": 2, "color": "#7d7d7d"},
+	"mine": {"name": "Mine", "cost": {"timber": 5, "stone": 2}, "build_work": 50, "recipe": "mine_ore", "terrain": "ore", "terrain_min": 2, "color": "#6e3b2a"},
+	"warehouse": {"name": "Warehouse", "cost": {"timber": 6, "stone": 4}, "build_work": 60, "storage": 300, "color": "#4a6a8a"},
+	"workshop": {"name": "Workshop", "cost": {"timber": 6, "stone": 6}, "build_work": 60, "recipe": "make_tools", "output_cap": 6, "color": "#3d5f7f"}
+}

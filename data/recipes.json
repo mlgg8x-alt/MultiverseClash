@@ -1,0 +1,22 @@
+{
+	"grow_food": {
+		"inputs": {}, "outputs": {"food": 2}, "work": 70, "workers": 2,
+		"skill": "farming", "power": 0, "maintenance": 0, "byproducts": {}
+	},
+	"cut_timber": {
+		"inputs": {}, "outputs": {"timber": 2}, "work": 40, "workers": 2,
+		"skill": "forestry", "power": 0, "maintenance": 0, "byproducts": {}
+	},
+	"cut_stone": {
+		"inputs": {}, "outputs": {"stone": 2}, "work": 50, "workers": 2,
+		"skill": "masonry", "power": 0, "maintenance": 0, "byproducts": {}
+	},
+	"mine_ore": {
+		"inputs": {}, "outputs": {"iron_ore": 1}, "work": 50, "workers": 2,
+		"skill": "mining", "power": 0, "maintenance": 0, "byproducts": {}
+	},
+	"make_tools": {
+		"inputs": {"iron_ore": 2, "timber": 1}, "outputs": {"tools": 1}, "work": 60, "workers": 1,
+		"skill": "smithing", "power": 0, "maintenance": 0, "byproducts": {}
+	}
+}
